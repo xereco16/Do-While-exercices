@@ -1,1 +1,2 @@
-DO WHILE EXERCICES
+Exercices using "Do while"
+college exercices
