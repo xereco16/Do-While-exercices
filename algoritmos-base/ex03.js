@@ -37,12 +37,6 @@ do {
 anosArr = anosTres.shift()
 
 
-escrever(altArthur)
-escrever(altMaciel)
-escrever(anos)
-escrever(anosDois)
-escrever(anosArr)
-
 if (tempoMaciel==anos && tempoArthur == anos){
     escrever("\nParabens vocês dois acertaram em quanto tempo Maciel passaria Arthur, "+anos+" anos")
 }else if(tempoMaciel == anos){
