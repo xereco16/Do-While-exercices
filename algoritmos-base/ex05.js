@@ -18,7 +18,7 @@ do {
         soma = anterior + proximo
         anterior=proximo
         proximo=soma
+        escrever(anterior)
     }
     vezes++
 } while (vezes <= limite);
-escrever(anterior)
